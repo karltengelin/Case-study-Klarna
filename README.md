@@ -7,4 +7,4 @@ Calculating probability of defaults using MLP
 
 - jupyter notebook-file Case_study_Klarna_final.ipynb contains the MLP model and the validation of it
 
-- PDF-file contains a one page motivation of the model 
+- PDF-file Case_study_Klarna-4 contains a one page motivation of the model 
