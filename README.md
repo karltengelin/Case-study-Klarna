@@ -5,4 +5,4 @@ CSV-file named probability_of_defaults.csv contains the calculated probability o
 
 ZIP-file named import_dataset_new.csv.zip contains an altered dataset where NA-values have been replaced (using excel)
 
-jupyter notebook file Case_study_Klarna_final.ipny contains the MLP model and the validation of it
+jupyter notebook file Case_study_Klarna_final.ipynb contains the MLP model and the validation of it
