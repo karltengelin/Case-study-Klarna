@@ -1,4 +1,4 @@
-# Case-study-Klarna
+# pd MLP
 Calculating probability of defaults using MLP
 
 - CSV-file named probability_of_defaults.csv contains the calculated probability of defaults for the prediction set
